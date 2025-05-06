@@ -1,0 +1,12 @@
+h1 {
+  font-family: 'Arial', sans-serif;
+  font-size: 36px; /* Adjust size as needed */
+  color: #6200ea; /* Purple shade */
+  text-align: center;
+  background-color: #f4f4f9; /* Light gray background */
+  padding: 20px;
+  border: 2px solid #3700b3; /* Darker purple border */
+  border-radius: 10px;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
